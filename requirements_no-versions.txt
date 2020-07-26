@@ -1,0 +1,13 @@
+wheel
+jupyter
+plotly
+pandas
+geopandas
+kaleido
+
+# required by geopandas
+matplotlib
+descartes
+
+# error: 'ValueError: Image generation requires the psutil package'
+psutil
