@@ -1,6 +1,8 @@
 # laesp
 
 ## error exporting as SVG
+The full issue where this tests were used [is here](https://github.com/plotly/Kaleido/issues/23).
+
 ### steps to reproduce
 * install and load venv
 * run the script `test_generate_svg.ipynb`
